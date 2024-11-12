@@ -14,13 +14,13 @@
     />
 
     <!-- title of site -->
-    <title>Directory Landing Page</title>
+    <title>Pioneer Solutions</title>
 
     <!-- For favicon png -->
     <link
       rel="shortcut icon"
       type="image/icon"
-      href="https://lfn8ublup7qq5o6k.public.blob.vercel-storage.com/site1/logo/favicon.png"
+      href="assets/logo/favicon.png"
     />
 
     <!--font-awesome.min.css-->
@@ -69,50 +69,6 @@
       </p>
     <![endif]-->
 
-    <!--header-top start -->
-    <header id="header-top" class="header-top">
-      <ul>
-        <li>
-          <div class="header-top-left">
-            <ul>
-              <li class="select-opt">
-                <select name="language" id="language">
-                  <option value="default">EN</option>
-                  <option value="Bangla">BN</option>
-                  <option value="Arabic">AB</option>
-                </select>
-              </li>
-              <li class="select-opt">
-                <select name="currency" id="currency">
-                  <option value="usd">USD</option>
-                  <option value="euro">Euro</option>
-                  <option value="bdt">BDT</option>
-                </select>
-              </li>
-              <li class="select-opt">
-                <a href="#"><span class="lnr lnr-magnifier"></span></a>
-              </li>
-            </ul>
-          </div>
-        </li>
-        <li class="head-responsive-right pull-right">
-          <div class="header-top-right">
-            <ul>
-              <li class="header-top-contact">+1 222 777 6565</li>
-              <li class="header-top-contact">
-                <a href="#">sign in</a>
-              </li>
-              <li class="header-top-contact">
-                <a href="#">register</a>
-              </li>
-            </ul>
-          </div>
-        </li>
-      </ul>
-    </header>
-    <!--/.header-top-->
-    <!--header-top end -->
-
     <!-- top-area Start -->
     <section class="top-area">
       <div class="header-area">
@@ -135,7 +91,7 @@
                 <i class="fa fa-bars"></i>
               </button>
               <a class="navbar-brand" href="index.html"
-                >list<span>race</span></a
+                >Pioneer <span>Solutions</span></a
               >
             </div>
             <!--/.navbar-header-->
@@ -152,10 +108,10 @@
                 data-out="fadeOutUp"
               >
                 <li class="scroll active"><a href="#home">home</a></li>
-                <li class="scroll"><a href="#works">how it works</a></li>
-                <li class="scroll"><a href="#explore">explore</a></li>
+                <li class="scroll"><a href="#works">Services</a></li>
+                <li class="scroll"><a href="#about">About</a></li>
+
                 <li class="scroll"><a href="#reviews">review</a></li>
-                <li class="scroll"><a href="#blog">blog</a></li>
                 <li class="scroll"><a href="#contact">contact</a></li>
               </ul>
               <!--/.nav -->
@@ -178,50 +134,19 @@
       <div class="container">
         <div class="welcome-hero-txt">
           <h2>
-            best place to find and explore <br />
-            that all you need
+            Your Ultimate Destination to Find and Explore <br />All Your Brand
+            Design Needs
           </h2>
-          <p>
-            Find Best Place, Restaurant, Hotel, Real State and many more think
-            in just One click
-          </p>
+          <p>Consulting Services for Business Growth</p>
         </div>
-        <div class="welcome-hero-serch-box">
-          <div class="welcome-hero-form">
-            <div class="single-welcome-hero-form">
-              <h3>what?</h3>
-              <form action="index.html">
-                <input
-                  type="text"
-                  placeholder="Ex: palce, resturent, food, automobile"
-                />
-              </form>
-              <div class="welcome-hero-form-icon">
-                <i class="flaticon-list-with-dots"></i>
-              </div>
-            </div>
-            <div class="single-welcome-hero-form">
-              <h3>location</h3>
-              <form action="index.html">
-                <input type="text" placeholder="Ex: london, newyork, rome" />
-              </form>
-              <div class="welcome-hero-form-icon">
-                <i class="flaticon-gps-fixed-indicator"></i>
-              </div>
-            </div>
-          </div>
-          <div class="welcome-hero-serch">
-            <button class="welcome-hero-btn" onclick="window.location.href='#'">
-              search <i data-feather="search"></i>
-            </button>
-          </div>
-        </div>
+        
       </div>
     </section>
     <!--/.welcome-hero-->
     <!--welcome-hero end -->
 
     <!--list-topics start -->
+
     <section id="list-topics" class="list-topics">
       <div class="container">
         <div class="list-topics-content">
@@ -229,10 +154,10 @@
             <li>
               <div class="single-list-topics-content">
                 <div class="single-list-topics-icon">
-                  <i class="flaticon-restaurant"></i>
+                  <i class="flaticon-networking"></i>
                 </div>
-                <h2><a href="#">resturent</a></h2>
-                <p>150 listings</p>
+                <h2><a href="#">Tech-Driven Solutions</a></h2>
+                <p>Solutions for Challenges</p>
               </div>
             </li>
             <li>
@@ -240,8 +165,8 @@
                 <div class="single-list-topics-icon">
                   <i class="flaticon-travel"></i>
                 </div>
-                <h2><a href="#">destination</a></h2>
-                <p>214 listings</p>
+                <h2><a href="#">Brand Enhancement</a></h2>
+                <p>Transform Your Brand</p>
               </div>
             </li>
             <li>
@@ -249,8 +174,8 @@
                 <div class="single-list-topics-icon">
                   <i class="flaticon-building"></i>
                 </div>
-                <h2><a href="#">hotels</a></h2>
-                <p>185 listings</p>
+                <h2><a href="#">Logo Design</a></h2>
+                <p>Custom Logo Creation</p>
               </div>
             </li>
             <li>
@@ -258,8 +183,8 @@
                 <div class="single-list-topics-icon">
                   <i class="flaticon-pills"></i>
                 </div>
-                <h2><a href="#">healthcaree</a></h2>
-                <p>200 listings</p>
+                <h2><a href="#">Strategic Harmony</a></h2>
+                <p>Unifying Business Strategies</p>
               </div>
             </li>
             <li>
@@ -267,8 +192,8 @@
                 <div class="single-list-topics-icon">
                   <i class="flaticon-transport"></i>
                 </div>
-                <h2><a href="#">automotion</a></h2>
-                <p>120 listings</p>
+                <h2><a href="#">Risk Solutions </a></h2>
+                <p>Tailored Risk Insights</p>
               </div>
             </li>
           </ul>
@@ -283,8 +208,8 @@
     <section id="works" class="works">
       <div class="container">
         <div class="section-header">
-          <h2>how it works</h2>
-          <p>Learn More about how our website works</p>
+          <h2>Services</h2>
+          <h5>Strategic Solutions for Enhanced Business Performance</h5>
         </div>
         <!--/.section-header-->
         <div class="works-content">
@@ -295,11 +220,67 @@
                   <i class="flaticon-lightbulb-idea"></i>
                 </div>
                 <h2>
-                  <a href="#">choose <span> what to</span> do</a>
+                  <a href="#">Brand <span> Enhancement</span></a>
                 </h2>
                 <p>
-                  Lorem ipsum dolor sit amet, consecte adipisicing elit, sed do
-                  eiusmod tempor incididunt ut laboremagna aliqua.
+					Building distinctive brand identities that resonate with audiences, enhancing market presence, and fostering lasting brand loyalty
+                </p>
+                <button
+                  class="welcome-hero-btn how-work-btn"
+                  onclick="window.location.href='#'"
+                >
+                  read more
+                </button>
+              </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+              <div class="single-how-works">
+                <div class="single-how-works-icon">
+                  <i class="flaticon-pills"></i>
+                </div>
+                <h2>
+                  <a href="#">Logo <span> Design</span></a>
+                </h2>
+                <p>
+					Crafting impactful, memorable logos that capture your brand's essence and establish a strong visual identity in the marketplace.
+                </p>
+                <button
+                  class="welcome-hero-btn how-work-btn"
+                  onclick="window.location.href='#'"
+                >
+                  read more
+                </button>
+              </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+              <div class="single-how-works">
+                <div class="single-how-works-icon">
+                  <i class="flaticon-pills"></i>
+                </div>
+                <h2>
+                  <a href="#"> Strategic  <span> harmony</span></a>
+                </h2>
+                <p>
+					Aligning business objectives with cohesive strategies to drive unified growth and ensure seamless operational synergy.
+                </p>
+                <button
+                  class="welcome-hero-btn how-work-btn"
+                  onclick="window.location.href='#'"
+                >
+                  read more
+                </button>
+              </div>
+            </div>
+            <div class="col-md-4 col-sm-6">
+              <div class="single-how-works">
+                <div class="single-how-works-icon">
+                  <i class="flaticon-transport"></i>
+                </div>
+                <h2>
+                  <a href="#">Tech <span>Driven Solution</span></a>
+                </h2>
+                <p>
+					Delivering innovative, technology-driven solutions that streamline processes, enhance productivity, and drive business growth.
                 </p>
                 <button
                   class="welcome-hero-btn how-work-btn"
@@ -315,11 +296,10 @@
                   <i class="flaticon-networking"></i>
                 </div>
                 <h2>
-                  <a href="#">find <span> what you want</span></a>
+                  <a href="#">Sustainable  <span> Advisory</span></a>
                 </h2>
                 <p>
-                  Lorem ipsum dolor sit amet, consecte adipisicing elit, sed do
-                  eiusmod tempor incididunt ut laboremagna aliqua.
+					Helping organizations adopt sustainable practices that promote environmental responsibility and social impact.
                 </p>
                 <button
                   class="welcome-hero-btn how-work-btn"
@@ -332,14 +312,13 @@
             <div class="col-md-4 col-sm-6">
               <div class="single-how-works">
                 <div class="single-how-works-icon">
-                  <i class="flaticon-location-on-road"></i>
+                  <i class="flaticon-networking"></i>
                 </div>
                 <h2>
-                  <a href="#">explore <span> amazing</span> place</a>
+                  <a href="#">Business  <span> Risk Consulting</span></a>
                 </h2>
                 <p>
-                  Lorem ipsum dolor sit amet, consecte adipisicing elit, sed do
-                  eiusmod tempor incididunt ut laboremagna aliqua.
+					Identifying, assessing, and mitigating potential risks to safeguard business continuity,Perseverance , and reputation.
                 </p>
                 <button
                   class="welcome-hero-btn how-work-btn"
@@ -354,508 +333,37 @@
       </div>
       <!--/.container-->
     </section>
-    <!--/.works-->
-    <!--works end -->
-
-    <!--explore start -->
-    <section id="explore" class="explore">
+    <section id="about" class="works">
       <div class="container">
         <div class="section-header">
-          <h2>explore</h2>
-          <p>Explore New place, food, culture around the world and many more</p>
-        </div>
-        <!--/.section-header-->
-        <div class="explore-content">
-          <div class="row">
-            <div class="col-md-4 col-sm-6">
-              <div class="single-explore-item">
-                <div class="single-explore-img">
-                  <img
-                    src="https://lfn8ublup7qq5o6k.public.blob.vercel-storage.com/site1/images/explore/e1.jpg"
-                    alt="explore image"
-                  />
-                  <div class="single-explore-img-info">
-                    <button onclick="window.location.href='#'">
-                      best rated
-                    </button>
-                    <div class="single-explore-image-icon-box">
-                      <ul>
-                        <li>
-                          <div class="single-explore-image-icon">
-                            <i class="fa fa-arrows-alt"></i>
-                          </div>
-                        </li>
-                        <li>
-                          <div class="single-explore-image-icon">
-                            <i class="fa fa-bookmark-o"></i>
-                          </div>
-                        </li>
-                      </ul>
-                    </div>
-                  </div>
-                </div>
-                <div class="single-explore-txt bg-theme-1">
-                  <h2><a href="#">tommy helfinger bar</a></h2>
-                  <p class="explore-rating-price">
-                    <span class="explore-rating">5.0</span>
-                    <a href="#"> 10 ratings</a>
-                    <span class="explore-price-box">
-                      form
-                      <span class="explore-price">5$-300$</span>
-                    </span>
-                    <a href="#">resturent</a>
-                  </p>
-                  <div class="explore-person">
-                    <div class="row">
-                      <div class="col-sm-2">
-                        <div class="explore-person-img">
-                          <a href="#">
-                            <img
-                              src="https://lfn8ublup7qq5o6k.public.blob.vercel-storage.com/site1/images/explore/person.png"
-                              alt="explore person"
-                            />
-                          </a>
-                        </div>
-                      </div>
-                      <div class="col-sm-10">
-                        <p>
-                          Lorem ipsum dolor sit amet, consectetur adipisicing
-                          elit, sed do eiusmod tempor incid ut labore et dolore
-                          magna aliqua....
-                        </p>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="explore-open-close-part">
-                    <div class="row">
-                      <div class="col-sm-5">
-                        <button
-                          class="close-btn"
-                          onclick="window.location.href='#'"
-                        >
-                          close now
-                        </button>
-                      </div>
-                      <div class="col-sm-7">
-                        <div class="explore-map-icon">
-                          <a href="#"><i data-feather="map-pin"></i></a>
-                          <a href="#"><i data-feather="upload"></i></a>
-                          <a href="#"><i data-feather="heart"></i></a>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-4 col-sm-6">
-              <div class="single-explore-item">
-                <div class="single-explore-img">
-                  <img
-                    src="https://lfn8ublup7qq5o6k.public.blob.vercel-storage.com/site1/images/explore/e2.jpg"
-                    alt="explore image"
-                  />
-                  <div class="single-explore-img-info">
-                    <button onclick="window.location.href='#'">featured</button>
-                    <div class="single-explore-image-icon-box">
-                      <ul>
-                        <li>
-                          <div class="single-explore-image-icon">
-                            <i class="fa fa-arrows-alt"></i>
-                          </div>
-                        </li>
-                        <li>
-                          <div class="single-explore-image-icon">
-                            <i class="fa fa-bookmark-o"></i>
-                          </div>
-                        </li>
-                      </ul>
-                    </div>
-                  </div>
-                </div>
-                <div class="single-explore-txt bg-theme-2">
-                  <h2><a href="#">swim and dine resort</a></h2>
-                  <p class="explore-rating-price">
-                    <span class="explore-rating">4.5</span>
-                    <a href="#"> 8 ratings</a>
-                    <span class="explore-price-box">
-                      form
-                      <span class="explore-price">50$-500$</span>
-                    </span>
-                    <a href="#">hotel</a>
-                  </p>
-                  <div class="explore-person">
-                    <div class="row">
-                      <div class="col-sm-2">
-                        <div class="explore-person-img">
-                          <a href="#">
-                            <img
-                              src="https://lfn8ublup7qq5o6k.public.blob.vercel-storage.com/site1/images/explore/person.png"
-                              alt="explore person"
-                            />
-                          </a>
-                        </div>
-                      </div>
-                      <div class="col-sm-10">
-                        <p>
-                          Lorem ipsum dolor sit amet, consectetur adipisicing
-                          elit, sed do eiusmod tempor incid ut labore et dolore
-                          magna aliqua....
-                        </p>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="explore-open-close-part">
-                    <div class="row">
-                      <div class="col-sm-5">
-                        <button
-                          class="close-btn open-btn"
-                          onclick="window.location.href='#'"
-                        >
-                          open now
-                        </button>
-                      </div>
-                      <div class="col-sm-7">
-                        <div class="explore-map-icon">
-                          <a href="#"><i data-feather="map-pin"></i></a>
-                          <a href="#"><i data-feather="upload"></i></a>
-                          <a href="#"><i data-feather="heart"></i></a>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-4 col-sm-6">
-              <div class="single-explore-item">
-                <div class="single-explore-img">
-                  <img
-                    src="https://lfn8ublup7qq5o6k.public.blob.vercel-storage.com/site1/images/explore/e3.jpg"
-                    alt="explore image"
-                  />
-                  <div class="single-explore-img-info">
-                    <button onclick="window.location.href='#'">
-                      best rated
-                    </button>
-                    <div class="single-explore-image-icon-box">
-                      <ul>
-                        <li>
-                          <div class="single-explore-image-icon">
-                            <i class="fa fa-arrows-alt"></i>
-                          </div>
-                        </li>
-                        <li>
-                          <div class="single-explore-image-icon">
-                            <i class="fa fa-bookmark-o"></i>
-                          </div>
-                        </li>
-                      </ul>
-                    </div>
-                  </div>
-                </div>
-                <div class="single-explore-txt bg-theme-3">
-                  <h2><a href="#">europe tour</a></h2>
-                  <p class="explore-rating-price">
-                    <span class="explore-rating">5.0</span>
-                    <a href="#"> 15 ratings</a>
-                    <span class="explore-price-box">
-                      form
-                      <span class="explore-price">5k$-10k$</span>
-                    </span>
-                    <a href="#">destination</a>
-                  </p>
-                  <div class="explore-person">
-                    <div class="row">
-                      <div class="col-sm-2">
-                        <div class="explore-person-img">
-                          <a href="#">
-                            <img
-                              src="https://lfn8ublup7qq5o6k.public.blob.vercel-storage.com/site1/images/explore/person.png"
-                              alt="explore person"
-                            />
-                          </a>
-                        </div>
-                      </div>
-                      <div class="col-sm-10">
-                        <p>
-                          Lorem ipsum dolor sit amet, consectetur adipisicing
-                          elit, sed do eiusmod tempor incid ut labore et dolore
-                          magna aliqua....
-                        </p>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="explore-open-close-part">
-                    <div class="row">
-                      <div class="col-sm-5">
-                        <button
-                          class="close-btn"
-                          onclick="window.location.href='#'"
-                        >
-                          close now
-                        </button>
-                      </div>
-                      <div class="col-sm-7">
-                        <div class="explore-map-icon">
-                          <a href="#"><i data-feather="map-pin"></i></a>
-                          <a href="#"><i data-feather="upload"></i></a>
-                          <a href="#"><i data-feather="heart"></i></a>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-4 col-sm-6">
-              <div class="single-explore-item">
-                <div class="single-explore-img">
-                  <img
-                    src="https://lfn8ublup7qq5o6k.public.blob.vercel-storage.com/site1/images/explore/e4.jpg"
-                    alt="explore image"
-                  />
-                  <div class="single-explore-img-info">
-                    <button onclick="window.location.href='#'">
-                      most view
-                    </button>
-                    <div class="single-explore-image-icon-box">
-                      <ul>
-                        <li>
-                          <div class="single-explore-image-icon">
-                            <i class="fa fa-arrows-alt"></i>
-                          </div>
-                        </li>
-                        <li>
-                          <div class="single-explore-image-icon">
-                            <i class="fa fa-bookmark-o"></i>
-                          </div>
-                        </li>
-                      </ul>
-                    </div>
-                  </div>
-                </div>
-                <div class="single-explore-txt bg-theme-4">
-                  <h2><a href="#">banglow with swiming pool</a></h2>
-                  <p class="explore-rating-price">
-                    <span class="explore-rating">5.0</span>
-                    <a href="#"> 10 ratings</a>
-                    <span class="explore-price-box">
-                      form
-                      <span class="explore-price">10k$-15k$</span>
-                    </span>
-                    <a href="#">real estate</a>
-                  </p>
-                  <div class="explore-person">
-                    <div class="row">
-                      <div class="col-sm-2">
-                        <div class="explore-person-img">
-                          <a href="#">
-                            <img
-                              src="https://lfn8ublup7qq5o6k.public.blob.vercel-storage.com/site1/images/explore/person.png"
-                              alt="explore person"
-                            />
-                          </a>
-                        </div>
-                      </div>
-                      <div class="col-sm-10">
-                        <p>
-                          Lorem ipsum dolor sit amet, consectetur adipisicing
-                          elit, sed do eiusmod tempor incid ut labore et dolore
-                          magna aliqua....
-                        </p>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="explore-open-close-part">
-                    <div class="row">
-                      <div class="col-sm-5">
-                        <button
-                          class="close-btn"
-                          onclick="window.location.href='#'"
-                        >
-                          close now
-                        </button>
-                      </div>
-                      <div class="col-sm-7">
-                        <div class="explore-map-icon">
-                          <a href="#"><i data-feather="map-pin"></i></a>
-                          <a href="#"><i data-feather="upload"></i></a>
-                          <a href="#"><i data-feather="heart"></i></a>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-4 col-sm-6">
-              <div class="single-explore-item">
-                <div class="single-explore-img">
-                  <img
-                    src="https://lfn8ublup7qq5o6k.public.blob.vercel-storage.com/site1/images/explore/e5.jpg"
-                    alt="explore image"
-                  />
-                  <div class="single-explore-img-info">
-                    <button onclick="window.location.href='#'">featured</button>
-                    <div class="single-explore-image-icon-box">
-                      <ul>
-                        <li>
-                          <div class="single-explore-image-icon">
-                            <i class="fa fa-arrows-alt"></i>
-                          </div>
-                        </li>
-                        <li>
-                          <div class="single-explore-image-icon">
-                            <i class="fa fa-bookmark-o"></i>
-                          </div>
-                        </li>
-                      </ul>
-                    </div>
-                  </div>
-                </div>
-                <div class="single-explore-txt bg-theme-2">
-                  <h2><a href="#">vintage car expo</a></h2>
-                  <p class="explore-rating-price">
-                    <span class="explore-rating">4.2</span>
-                    <a href="#"> 8 ratings</a>
-                    <span class="explore-price-box">
-                      form
-                      <span class="explore-price">500$-1200$</span>
-                    </span>
-                    <a href="#">automotion</a>
-                  </p>
-                  <div class="explore-person">
-                    <div class="row">
-                      <div class="col-sm-2">
-                        <div class="explore-person-img">
-                          <a href="#">
-                            <img
-                              src="https://lfn8ublup7qq5o6k.public.blob.vercel-storage.com/site1/images/explore/person.png"
-                              alt="explore person"
-                            />
-                          </a>
-                        </div>
-                      </div>
-                      <div class="col-sm-10">
-                        <p>
-                          Lorem ipsum dolor sit amet, consectetur adipisicing
-                          elit, sed do eiusmod tempor incid ut labore et dolore
-                          magna aliqua....
-                        </p>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="explore-open-close-part">
-                    <div class="row">
-                      <div class="col-sm-5">
-                        <button
-                          class="close-btn open-btn"
-                          onclick="window.location.href='#'"
-                        >
-                          open now
-                        </button>
-                      </div>
-                      <div class="col-sm-7">
-                        <div class="explore-map-icon">
-                          <a href="#"><i data-feather="map-pin"></i></a>
-                          <a href="#"><i data-feather="upload"></i></a>
-                          <a href="#"><i data-feather="heart"></i></a>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-4 col-sm-6">
-              <div class="single-explore-item">
-                <div class="single-explore-img">
-                  <img
-                    src="https://lfn8ublup7qq5o6k.public.blob.vercel-storage.com/site1/images/explore/e6.jpg"
-                    alt="explore image"
-                  />
-                  <div class="single-explore-img-info">
-                    <button onclick="window.location.href='#'">
-                      best rated
-                    </button>
-                    <div class="single-explore-image-icon-box">
-                      <ul>
-                        <li>
-                          <div class="single-explore-image-icon">
-                            <i class="fa fa-arrows-alt"></i>
-                          </div>
-                        </li>
-                        <li>
-                          <div class="single-explore-image-icon">
-                            <i class="fa fa-bookmark-o"></i>
-                          </div>
-                        </li>
-                      </ul>
-                    </div>
-                  </div>
-                </div>
-                <div class="single-explore-txt bg-theme-5">
-                  <h2><a href="#">thailand tour</a></h2>
-                  <p class="explore-rating-price">
-                    <span class="explore-rating">5.0</span>
-                    <a href="#"> 15 ratings</a>
-                    <span class="explore-price-box">
-                      form
-                      <span class="explore-price">5k$-10k$</span>
-                    </span>
-                    <a href="#">destination</a>
-                  </p>
-                  <div class="explore-person">
-                    <div class="row">
-                      <div class="col-sm-2">
-                        <div class="explore-person-img">
-                          <a href="#">
-                            <img
-                              src="https://lfn8ublup7qq5o6k.public.blob.vercel-storage.com/site1/images/explore/person.png"
-                              alt="explore person"
-                            />
-                          </a>
-                        </div>
-                      </div>
-                      <div class="col-sm-10">
-                        <p>
-                          Lorem ipsum dolor sit amet, consectetur adipisicing
-                          elit, sed do eiusmod tempor incid ut labore et dolore
-                          magna aliqua....
-                        </p>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="explore-open-close-part">
-                    <div class="row">
-                      <div class="col-sm-5">
-                        <button
-                          class="close-btn"
-                          onclick="window.location.href='#'"
-                        >
-                          close now
-                        </button>
-                      </div>
-                      <div class="col-sm-7">
-                        <div class="explore-map-icon">
-                          <a href="#"><i data-feather="map-pin"></i></a>
-                          <a href="#"><i data-feather="upload"></i></a>
-                          <a href="#"><i data-feather="heart"></i></a>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
+          <h2>About</h2>
+          <p>
+            Expert consulting firm focused on driving business growth and
+            transformation through innovative, results-oriented strategies.
+          </p>
+          <p>
+            As a forward-thinking consulting firm, we are dedicated to fostering
+            business growth and transformational success. Drawing on extensive
+            industry expertise and a strong record of impactful solutions, we
+            partner closely with clients to develop tailored, innovative
+            strategies that drive measurable results. Our broad capabilities
+            across [list of core competencies, e.g., strategy, operations,
+            digital transformation] empower us to tackle complex challenges,
+            delivering sustainable value and positioning businesses for
+            long-term success. We are a results-driven consulting firm committed
+            to empowering business growth and transformation. Leveraging deep
+            industry insights and a solid history of success, we collaborate
+            with clients to craft innovative strategies that yield tangible
+            outcomes. Our expertise spans [list of core competencies, e.g.,
+            strategy, operations, digital transformation], equipping us to
+            address complex challenges and foster long-term value.
+          </p>
         </div>
       </div>
       <!--/.container-->
     </section>
-    <!--/.explore-->
-    <!--explore end -->
+    <!--/.works-->
+    <!--works end -->
 
     <!--reviews start -->
     <section id="reviews" class="reviews">
@@ -870,10 +378,131 @@
             <div class="testimonial-description">
               <div class="testimonial-info">
                 <div class="testimonial-img">
-                  <img
-                    src="https://lfn8ublup7qq5o6k.public.blob.vercel-storage.com/site1/images/clients/c1.png"
-                    alt="clients"
-                  />
+                  <img src="assets/images/clients/c1.png" alt="clients" />
+                </div>
+                <!--/.testimonial-img-->
+                <div class="testimonial-person">
+                  <h2>Michael Thompson</h2>
+                  <h4>london, UK</h4>
+                  <div class="testimonial-person-star">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                  </div>
+                </div>
+                <!--/.testimonial-person-->
+              </div>
+              <!--/.testimonial-info-->
+              <div class="testimonial-comment">
+                <p>
+					Pioneer solutions transformed our operations with their strategic consulting and digital expertise. Their team is responsive and truly understands our needs.
+                </p>
+              </div>
+              <!--/.testimonial-comment-->
+            </div>
+            <!--/.testimonial-description-->
+          </div>
+          <!--/.single-testimonial-box-->
+          <div class="single-testimonial-box">
+            <div class="testimonial-description">
+              <div class="testimonial-info">
+                <div class="testimonial-img">
+                  <img src="assets/images/clients/c2.png" alt="clients" />
+                </div>
+                <!--/.testimonial-img-->
+                <div class="testimonial-person">
+                  <h2>monirul islam</h2>
+                  <h4>london, UK</h4>
+                  <div class="testimonial-person-star">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                  </div>
+                </div>
+                <!--/.testimonial-person-->
+              </div>
+              <!--/.testimonial-info-->
+              <div class="testimonial-comment">
+                <p>
+					Pioneer solutions transformed our operations with their strategic consulting and digital expertise. Their team is responsive and truly understands our needs.
+                </p>
+              </div>
+              <!--/.testimonial-comment-->
+            </div>
+            <!--/.testimonial-description-->
+          </div>
+          <!--/.single-testimonial-box-->
+          <div class="single-testimonial-box">
+            <div class="testimonial-description">
+              <div class="testimonial-info">
+                <div class="testimonial-img">
+                  <img src="assets/images/clients/c3.png" alt="clients" />
+                </div>
+                <!--/.testimonial-img-->
+                <div class="testimonial-person">
+                  <h2>Shohrab Hossain</h2>
+                  <h4>Manchester, UK</h4>
+                  <div class="testimonial-person-star">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                  </div>
+                </div>
+                <!--/.testimonial-person-->
+              </div>
+              <!--/.testimonial-info-->
+              <div class="testimonial-comment">
+                <p>
+					Pioneer solutions identified and mitigated key risks, giving us peace of mind and stronger business continuity. Highly recommend their risk management expertise.
+                </p>
+              </div>
+              <!--/.testimonial-comment-->
+            </div>
+            <!--/.testimonial-description-->
+          </div>
+          <!--/.single-testimonial-box-->
+          <div class="single-testimonial-box">
+            <div class="testimonial-description">
+              <div class="testimonial-info">
+                <div class="testimonial-img">
+                  <img src="assets/images/clients/c4.png" alt="clients" />
+                </div>
+                <!--/.testimonial-img-->
+                <div class="testimonial-person">
+                  <h2>Sarah Miller</h2>
+                  <h4>San Francisco, USA</h4>
+                  <div class="testimonial-person-star">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                  </div>
+                </div>
+                <!--/.testimonial-person-->
+              </div>
+              <!--/.testimonial-info-->
+              <div class="testimonial-comment">
+                <p>
+					They helped us implement sustainable practices that made a real difference. Their approach was thorough and aligned with our eco-friendly goals.
+                </p>
+              </div>
+              <!--/.testimonial-comment-->
+            </div>
+            <!--/.testimonial-description-->
+          </div>
+          <!--/.single-testimonial-box-->
+          <div class="single-testimonial-box">
+            <div class="testimonial-description">
+              <div class="testimonial-info">
+                <div class="testimonial-img">
+                  <img src="assets/images/clients/c1.png" alt="clients" />
                 </div>
                 <!--/.testimonial-img-->
                 <div class="testimonial-person">
@@ -906,10 +535,7 @@
             <div class="testimonial-description">
               <div class="testimonial-info">
                 <div class="testimonial-img">
-                  <img
-                    src="https://lfn8ublup7qq5o6k.public.blob.vercel-storage.com/site1/images/clients/c2.png"
-                    alt="clients"
-                  />
+                  <img src="assets/images/clients/c2.png" alt="clients" />
                 </div>
                 <!--/.testimonial-img-->
                 <div class="testimonial-person">
@@ -942,10 +568,7 @@
             <div class="testimonial-description">
               <div class="testimonial-info">
                 <div class="testimonial-img">
-                  <img
-                    src="https://lfn8ublup7qq5o6k.public.blob.vercel-storage.com/site1/images/clients/c3.png"
-                    alt="clients"
-                  />
+                  <img src="assets/images/clients/c3.png" alt="clients" />
                 </div>
                 <!--/.testimonial-img-->
                 <div class="testimonial-person">
@@ -978,154 +601,7 @@
             <div class="testimonial-description">
               <div class="testimonial-info">
                 <div class="testimonial-img">
-                  <img
-                    src="https://lfn8ublup7qq5o6k.public.blob.vercel-storage.com/site1/images/clients/c4.png"
-                    alt="clients"
-                  />
-                </div>
-                <!--/.testimonial-img-->
-                <div class="testimonial-person">
-                  <h2>Tom Leakar</h2>
-                  <h4>london, UK</h4>
-                  <div class="testimonial-person-star">
-                    <i class="fa fa-star"></i>
-                    <i class="fa fa-star"></i>
-                    <i class="fa fa-star"></i>
-                    <i class="fa fa-star"></i>
-                    <i class="fa fa-star"></i>
-                  </div>
-                </div>
-                <!--/.testimonial-person-->
-              </div>
-              <!--/.testimonial-info-->
-              <div class="testimonial-comment">
-                <p>
-                  Excepteur sint occaecat cupidatat non proident, sunt in culpa
-                  qui officia deserunt mollit anim id est laborum. Sed ut
-                  perspiciatis eaque.
-                </p>
-              </div>
-              <!--/.testimonial-comment-->
-            </div>
-            <!--/.testimonial-description-->
-          </div>
-          <!--/.single-testimonial-box-->
-          <div class="single-testimonial-box">
-            <div class="testimonial-description">
-              <div class="testimonial-info">
-                <div class="testimonial-img">
-                  <img
-                    src="https://lfn8ublup7qq5o6k.public.blob.vercel-storage.com/site1/images/clients/c1.png"
-                    alt="clients"
-                  />
-                </div>
-                <!--/.testimonial-img-->
-                <div class="testimonial-person">
-                  <h2>Tom Leakar</h2>
-                  <h4>london, UK</h4>
-                  <div class="testimonial-person-star">
-                    <i class="fa fa-star"></i>
-                    <i class="fa fa-star"></i>
-                    <i class="fa fa-star"></i>
-                    <i class="fa fa-star"></i>
-                    <i class="fa fa-star"></i>
-                  </div>
-                </div>
-                <!--/.testimonial-person-->
-              </div>
-              <!--/.testimonial-info-->
-              <div class="testimonial-comment">
-                <p>
-                  Excepteur sint occaecat cupidatat non proident, sunt in culpa
-                  qui officia deserunt mollit anim id est laborum. Sed ut
-                  perspiciatis eaque.
-                </p>
-              </div>
-              <!--/.testimonial-comment-->
-            </div>
-            <!--/.testimonial-description-->
-          </div>
-          <!--/.single-testimonial-box-->
-          <div class="single-testimonial-box">
-            <div class="testimonial-description">
-              <div class="testimonial-info">
-                <div class="testimonial-img">
-                  <img
-                    src="https://lfn8ublup7qq5o6k.public.blob.vercel-storage.com/site1/images/clients/c2.png"
-                    alt="clients"
-                  />
-                </div>
-                <!--/.testimonial-img-->
-                <div class="testimonial-person">
-                  <h2>monirul islam</h2>
-                  <h4>london, UK</h4>
-                  <div class="testimonial-person-star">
-                    <i class="fa fa-star"></i>
-                    <i class="fa fa-star"></i>
-                    <i class="fa fa-star"></i>
-                    <i class="fa fa-star"></i>
-                    <i class="fa fa-star"></i>
-                  </div>
-                </div>
-                <!--/.testimonial-person-->
-              </div>
-              <!--/.testimonial-info-->
-              <div class="testimonial-comment">
-                <p>
-                  Excepteur sint occaecat cupidatat non proident, sunt in culpa
-                  qui officia deserunt mollit anim id est laborum. Sed ut
-                  perspiciatis eaque.
-                </p>
-              </div>
-              <!--/.testimonial-comment-->
-            </div>
-            <!--/.testimonial-description-->
-          </div>
-          <!--/.single-testimonial-box-->
-          <div class="single-testimonial-box">
-            <div class="testimonial-description">
-              <div class="testimonial-info">
-                <div class="testimonial-img">
-                  <img
-                    src="https://lfn8ublup7qq5o6k.public.blob.vercel-storage.com/site1/images/clients/c3.png"
-                    alt="clients"
-                  />
-                </div>
-                <!--/.testimonial-img-->
-                <div class="testimonial-person">
-                  <h2>Shohrab Hossain</h2>
-                  <h4>london, UK</h4>
-                  <div class="testimonial-person-star">
-                    <i class="fa fa-star"></i>
-                    <i class="fa fa-star"></i>
-                    <i class="fa fa-star"></i>
-                    <i class="fa fa-star"></i>
-                    <i class="fa fa-star"></i>
-                  </div>
-                </div>
-                <!--/.testimonial-person-->
-              </div>
-              <!--/.testimonial-info-->
-              <div class="testimonial-comment">
-                <p>
-                  Excepteur sint occaecat cupidatat non proident, sunt in culpa
-                  qui officia deserunt mollit anim id est laborum. Sed ut
-                  perspiciatis eaque.
-                </p>
-              </div>
-              <!--/.testimonial-comment-->
-            </div>
-            <!--/.testimonial-description-->
-          </div>
-          <!--/.single-testimonial-box-->
-          <div class="single-testimonial-box">
-            <div class="testimonial-description">
-              <div class="testimonial-info">
-                <div class="testimonial-img">
-                  <img
-                    src="https://lfn8ublup7qq5o6k.public.blob.vercel-storage.com/site1/images/clients/c4.png"
-                    alt="clients"
-                  />
+                  <img src="assets/images/clients/c4.png" alt="clients" />
                 </div>
                 <!--/.testimonial-img-->
                 <div class="testimonial-person">
@@ -1220,90 +696,6 @@
     <!--/.counter-->
     <!-- statistics end -->
 
-    <!--blog start -->
-    <section id="blog" class="blog">
-      <div class="container">
-        <div class="section-header">
-          <h2>news and articles</h2>
-          <p>Always upto date with our latest News and Articles</p>
-        </div>
-        <!--/.section-header-->
-        <div class="blog-content">
-          <div class="row">
-            <div class="col-md-4 col-sm-6">
-              <div class="single-blog-item">
-                <div class="single-blog-item-img">
-                  <img
-                    src="https://lfn8ublup7qq5o6k.public.blob.vercel-storage.com/site1/images/blog/b1.jpg"
-                    alt="blog image"
-                  />
-                </div>
-                <div class="single-blog-item-txt">
-                  <h2>
-                    <a href="#">How to find your Desired Place more quickly</a>
-                  </h2>
-                  <h4>
-                    posted <span>by</span> <a href="#">admin</a> march 2018
-                  </h4>
-                  <p>
-                    Lorem ipsum dolor sit amet, consectetur de adipisicing elit,
-                    sed do eiusmod tempore incididunt ut labore et dolore magna.
-                  </p>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-4 col-sm-6">
-              <div class="single-blog-item">
-                <div class="single-blog-item-img">
-                  <img
-                    src="https://lfn8ublup7qq5o6k.public.blob.vercel-storage.com/site1/images/blog/b2.jpg"
-                    alt="blog image"
-                  />
-                </div>
-                <div class="single-blog-item-txt">
-                  <h2>
-                    <a href="#">How to find your Desired Place more quickly</a>
-                  </h2>
-                  <h4>
-                    posted <span>by</span> <a href="#">admin</a> march 2018
-                  </h4>
-                  <p>
-                    Lorem ipsum dolor sit amet, consectetur de adipisicing elit,
-                    sed do eiusmod tempore incididunt ut labore et dolore magna.
-                  </p>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-4 col-sm-6">
-              <div class="single-blog-item">
-                <div class="single-blog-item-img">
-                  <img
-                    src="https://lfn8ublup7qq5o6k.public.blob.vercel-storage.com/site1/images/blog/b3.jpg"
-                    alt="blog image"
-                  />
-                </div>
-                <div class="single-blog-item-txt">
-                  <h2>
-                    <a href="#">How to find your Desired Place more quickly</a>
-                  </h2>
-                  <h4>
-                    posted <span>by</span> <a href="#">admin</a> march 2018
-                  </h4>
-                  <p>
-                    Lorem ipsum dolor sit amet, consectetur de adipisicing elit,
-                    sed do eiusmod tempore incididunt ut labore et dolore magna.
-                  </p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <!--/.container-->
-    </section>
-    <!--/.blog-->
-    <!--blog end -->
-
     <!--subscription strat -->
     <section id="contact" class="subscription">
       <div class="container">
@@ -1346,20 +738,19 @@
             <div class="col-sm-3">
               <div class="navbar-header">
                 <a class="navbar-brand" href="index.html"
-                  >list<span>race</span></a
+                  >Pioneer <span>Solution</span></a
                 >
               </div>
               <!--/.navbar-header-->
             </div>
             <div class="col-sm-9">
               <ul class="footer-menu-item">
-                <li class="scroll"><a href="#works">how it works</a></li>
-                <li class="scroll"><a href="#explore">explore</a></li>
+				<li class="scroll active"><a href="#home">home</a></li>
+                <li class="scroll"><a href="#works">Services</a></li>
+                <li class="scroll"><a href="#about">About</a></li>
+
                 <li class="scroll"><a href="#reviews">review</a></li>
-                <li class="scroll"><a href="#blog">blog</a></li>
                 <li class="scroll"><a href="#contact">contact</a></li>
-                <li class="scroll"><a href="#contact">my account</a></li>
-              </ul>
               <!--/.nav -->
             </div>
           </div>
@@ -1369,7 +760,7 @@
             <div class="col-sm-5">
               <p>
                 &copy;copyright. designed and developed by
-                <a href="https://www.themesine.com/">themesine</a>
+                <a href="#">Pioneer Solutions</a>
               </p>
               <!--/p-->
             </div>
@@ -1408,30 +799,30 @@
 
     <!-- Include all js compiled plugins (below), or include individual files as needed -->
 
-    <script src="https://lfn8ublup7qq5o6k.public.blob.vercel-storage.com/site1/js/bootsnav.jsjquery.js"></script>
+    <script src="assets/js/jquery.js"></script>
 
     <!--modernizr.min.js-->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
 
     <!--bootstrap.min.js-->
-    <script src="https://lfn8ublup7qq5o6k.public.blob.vercel-storage.com/site1/js/bootsnav.jsbootstrap.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
 
     <!-- bootsnav js -->
-    <script src="https://lfn8ublup7qq5o6k.public.blob.vercel-storage.com/site1/js/bootsnav.jsbootsnav.js"></script>
+    <script src="assets/js/bootsnav.js"></script>
 
     <!--feather.min.js-->
-    <script src="https://lfn8ublup7qq5o6k.public.blob.vercel-storage.com/site1/js/bootsnav.jsfeather.min.js"></script>
+    <script src="assets/js/feather.min.js"></script>
 
     <!-- counter js -->
-    <script src="https://lfn8ublup7qq5o6k.public.blob.vercel-storage.com/site1/js/bootsnav.jsjquery.counterup.min.js"></script>
-    <script src="https://lfn8ublup7qq5o6k.public.blob.vercel-storage.com/site1/js/bootsnav.jswaypoints.min.js"></script>
+    <script src="assets/js/jquery.counterup.min.js"></script>
+    <script src="assets/js/waypoints.min.js"></script>
 
     <!--slick.min.js-->
-    <script src="https://lfn8ublup7qq5o6k.public.blob.vercel-storage.com/site1/js/bootsnav.jsslick.min.js"></script>
+    <script src="assets/js/slick.min.js"></script>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
 
     <!--Custom JS-->
-    <script src="https://lfn8ublup7qq5o6k.public.blob.vercel-storage.com/site1/js/bootsnav.jscustom.js"></script>
+    <script src="assets/js/custom.js"></script>
   </body>
 </html>
