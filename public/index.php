@@ -236,7 +236,7 @@
             <div class="col-md-4 col-sm-6">
               <div class="single-how-works">
                 <div class="single-how-works-icon">
-                  <i class="flaticon-pills"></i>
+                  <i class="flaticon-building"></i>
                 </div>
                 <h2>
                   <a href="#">Logo <span> Design</span></a>
@@ -312,7 +312,7 @@
             <div class="col-md-4 col-sm-6">
               <div class="single-how-works">
                 <div class="single-how-works-icon">
-                  <i class="flaticon-networking"></i>
+                  <i class="flaticon-list-with-dots"></i>
                 </div>
                 <h2>
                   <a href="#">Business  <span> Risk Consulting</span></a>
