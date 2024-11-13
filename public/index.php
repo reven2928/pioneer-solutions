@@ -24,32 +24,32 @@
     />
 
     <!--font-awesome.min.css-->
-    <link rel="stylesheet" href="assets/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="https://cc1c125cy3ehgrvr.public.blob.vercel-storage.com/css/font-awesome.min.css" />
 
     <!--linear icon css-->
-    <link rel="stylesheet" href="assets/css/linearicons.css" />
+    <link rel="stylesheet" href="https://cc1c125cy3ehgrvr.public.blob.vercel-storage.com/css/linearicons.css" />
 
     <!--animate.css-->
-    <link rel="stylesheet" href="assets/css/animate.css" />
+    <link rel="stylesheet" href="https://cc1c125cy3ehgrvr.public.blob.vercel-storage.com/css/animate.css" />
 
     <!--flaticon.css-->
-    <link rel="stylesheet" href="assets/css/flaticon.css" />
+    <link rel="stylesheet" href="https://cc1c125cy3ehgrvr.public.blob.vercel-storage.com/css/flaticon.css" />
 
     <!--slick.css-->
-    <link rel="stylesheet" href="assets/css/slick.css" />
-    <link rel="stylesheet" href="assets/css/slick-theme.css" />
+    <link rel="stylesheet" href="https://cc1c125cy3ehgrvr.public.blob.vercel-storage.com/css/slick.css" />
+    <link rel="stylesheet" href="https://cc1c125cy3ehgrvr.public.blob.vercel-storage.com/css/slick-theme.css" />
 
     <!--bootstrap.min.css-->
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cc1c125cy3ehgrvr.public.blob.vercel-storage.com/css/bootstrap.min.css" />
 
     <!-- bootsnav -->
-    <link rel="stylesheet" href="assets/css/bootsnav.css" />
+    <link rel="stylesheet" href="https://cc1c125cy3ehgrvr.public.blob.vercel-storage.com/css/bootsnav.css" />
 
     <!--style.css-->
-    <link rel="stylesheet" href="assets/css/style.css" />
+    <link rel="stylesheet" href="https://cc1c125cy3ehgrvr.public.blob.vercel-storage.com/css/style.css" />
 
     <!--responsive.css-->
-    <link rel="stylesheet" href="assets/css/responsive.css" />
+    <link rel="stylesheet" href="https://cc1c125cy3ehgrvr.public.blob.vercel-storage.com/css/responsive.css" />
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
