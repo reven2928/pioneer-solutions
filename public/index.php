@@ -20,7 +20,7 @@
     <link
       rel="shortcut icon"
       type="image/icon"
-      href="assets/logo/favicon.png"
+      href="https://cc1c125cy3ehgrvr.public.blob.vercel-storage.com/logo/favicon.pngfavicon.png"
     />
 
     <!--font-awesome.min.css-->
@@ -378,7 +378,7 @@
             <div class="testimonial-description">
               <div class="testimonial-info">
                 <div class="testimonial-img">
-                  <img src="assets/images/clients/c1.png" alt="clients" />
+                  <img src="https://cc1c125cy3ehgrvr.public.blob.vercel-storage.com/images/clients/c1.png" alt="clients" />
                 </div>
                 <!--/.testimonial-img-->
                 <div class="testimonial-person">
@@ -409,7 +409,7 @@
             <div class="testimonial-description">
               <div class="testimonial-info">
                 <div class="testimonial-img">
-                  <img src="assets/images/clients/c2.png" alt="clients" />
+                  <img src="https://cc1c125cy3ehgrvr.public.blob.vercel-storage.com/images/clients/c2.png" alt="clients" />
                 </div>
                 <!--/.testimonial-img-->
                 <div class="testimonial-person">
@@ -440,7 +440,7 @@
             <div class="testimonial-description">
               <div class="testimonial-info">
                 <div class="testimonial-img">
-                  <img src="assets/images/clients/c3.png" alt="clients" />
+                  <img src="https://cc1c125cy3ehgrvr.public.blob.vercel-storage.com/images/clients/c3.png" alt="clients" />
                 </div>
                 <!--/.testimonial-img-->
                 <div class="testimonial-person">
@@ -471,7 +471,7 @@
             <div class="testimonial-description">
               <div class="testimonial-info">
                 <div class="testimonial-img">
-                  <img src="assets/images/clients/c4.png" alt="clients" />
+                  <img src="https://cc1c125cy3ehgrvr.public.blob.vercel-storage.com/images/clients/c4.png" alt="clients" />
                 </div>
                 <!--/.testimonial-img-->
                 <div class="testimonial-person">
@@ -502,7 +502,7 @@
             <div class="testimonial-description">
               <div class="testimonial-info">
                 <div class="testimonial-img">
-                  <img src="assets/images/clients/c1.png" alt="clients" />
+                  <img src="https://cc1c125cy3ehgrvr.public.blob.vercel-storage.com/images/clients/c1.png" alt="clients" />
                 </div>
                 <!--/.testimonial-img-->
                 <div class="testimonial-person">
@@ -701,30 +701,30 @@
 
     <!-- Include all js compiled plugins (below), or include individual files as needed -->
 
-    <script src="assets/js/jquery.js"></script>
+    <script src="https://cc1c125cy3ehgrvr.public.blob.vercel-storage.com/js/jquery.js"></script>
 
     <!--modernizr.min.js-->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
 
     <!--bootstrap.min.js-->
-    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="https://cc1c125cy3ehgrvr.public.blob.vercel-storage.com/js/bootstrap.min.js"></script>
 
     <!-- bootsnav js -->
-    <script src="assets/js/bootsnav.js"></script>
+    <script src="https://cc1c125cy3ehgrvr.public.blob.vercel-storage.com/js/bootsnav.js"></script>
 
     <!--feather.min.js-->
-    <script src="assets/js/feather.min.js"></script>
+    <script src="https://cc1c125cy3ehgrvr.public.blob.vercel-storage.com/js/feather.min.js"></script>
 
     <!-- counter js -->
-    <script src="assets/js/jquery.counterup.min.js"></script>
-    <script src="assets/js/waypoints.min.js"></script>
+    <script src="https://cc1c125cy3ehgrvr.public.blob.vercel-storage.com/js/jquery.counterup.min.js"></script>
+    <script src="https://cc1c125cy3ehgrvr.public.blob.vercel-storage.com/js/waypoints.min.js"></script>
 
     <!--slick.min.js-->
-    <script src="assets/js/slick.min.js"></script>
+    <script src="https://cc1c125cy3ehgrvr.public.blob.vercel-storage.com/js/slick.min.js"></script>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
 
     <!--Custom JS-->
-    <script src="assets/js/custom.js"></script>
+    <script src="https://cc1c125cy3ehgrvr.public.blob.vercel-storage.com/js/custom.js"></script>
   </body>
 </html>
